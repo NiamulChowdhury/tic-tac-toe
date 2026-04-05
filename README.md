@@ -2,6 +2,10 @@
 
 A modern, interactive Tic-Tac-Toe game built with React and Vite. This project demonstrates a fully functional two-player game with move history tracking, winner detection, and a beautiful responsive UI powered by Tailwind CSS.
 
+## 🚀 Live Demo
+
+Play the game online: [https://niamulchowdhury.github.io/tic-tac-toe/](https://niamulchowdhury.github.io/tic-tac-toe/)
+
 ## Overview
 
 This is a professional implementation of the classic Tic-Tac-Toe game featuring:
